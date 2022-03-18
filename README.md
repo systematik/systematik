@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux Servers, Cloud and automation.
 - 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on automated scripts to use in configuration management and resource provisioning on-prem and on Cloud (mostly AWS).
-- 📫 How to reach me akgul.semih@gmail.com and https://twitter.com/semih_akgul01
+- 📫 How to reach me semih.akg@gmail.com and https://twitter.com/semih_akgul01
 
 <!---
 systematik/systematik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

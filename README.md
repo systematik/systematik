@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @systematik
-- 👀 I’m interested in Linux Servers, Cloud and automotion.
-- 🌱 I’m currently learning DevOps principals.
+- 👀 I’m interested in Linux Servers, Cloud and automation.
+- 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on automated scripts to use in configuration management and resource provisioning on-prem and on Cloud (mostly AWS).
 - 📫 How to reach me akgul.semih@gmail.com and https://twitter.com/semih_akgul01
 
